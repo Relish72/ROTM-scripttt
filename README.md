@@ -13,3 +13,6 @@ end
 --Tp to CFrame
 local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
 rootPart.CFrame = CFrame.new(CFrame)
+
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 169
+game.Players.LocalPlayer.Character.Humanoid.JumpPower = 420
